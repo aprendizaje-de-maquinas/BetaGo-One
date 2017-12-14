@@ -9,5 +9,7 @@ A note for future Stanford students: Please do not use any of the code in this r
 Note that this project uses a modified version of the file 'go.py' contained in OpenAI Gym that is required for this code to function. Ie the self play portion requires that we disable the function of the go engine that play against agents by default in the Go environment.
 
 References:
+
+
 Silver, David, et al. "Mastering the game of go without human knowledge." Nature 550.7676 (2017): 354-359.\\
 Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement Learning with Double Q-Learning." AAAI. 2016.
